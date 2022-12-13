@@ -1,2 +1,2 @@
 # demo
-Demo project is fun
+Demo project is fun. We love demo app
